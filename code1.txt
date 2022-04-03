@@ -1,1 +1,6 @@
-Line1 fixed
+git status
+git add <이름.형식>
+git status
+git commit -m "알아볼 수 있는 메시지"
+git status
+git push origin main
